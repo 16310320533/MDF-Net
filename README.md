@@ -27,4 +27,5 @@ MDF-Net/
 │   └── evidential.py       # EDL Fusion & Uncertainty quantification
 ├── utils/
 │   └── losses.py           # Composite loss (KL Divergence + Boundary BCE)
+├── data demo/
 └── README.md
